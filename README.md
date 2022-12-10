@@ -2,7 +2,6 @@
 
 ## Proffesional Developer Portfolio
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - This portfolio web applications aim is to display the information and project for my web development work, which I will add to as I complete further project.
 - it enables visitors to contact me learn about my skill set and see project I've worked on.
